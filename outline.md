@@ -1,5 +1,9 @@
 # Open Access and MOOCs
 
+Konrad M. Lawson  
+Lecturer in Modern History  
+University of St Andrews
+
 *2013.11.19 Max Weber Programme 8th Academic Careers Observatory Conference*  
 *European University Institute - Florence, Italy*
 
