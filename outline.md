@@ -18,5 +18,7 @@ This outline, the text as delivered, and presentation slides are available at:
 
 [http://huginn.net/talks/eui-mooc-oa-talk-2013.11/](http://huginn.net/talks/eui-mooc-oa-talk-2013.11/)
 
-Full Repository at: 
+Full repository history at: 
+
+[https://github.com/kmlawson/eui-mooc-oa-talk-2013.11](https://github.com/kmlawson/eui-mooc-oa-talk-2013.11)
 
