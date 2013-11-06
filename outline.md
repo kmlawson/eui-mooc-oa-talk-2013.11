@@ -14,7 +14,7 @@ This brief 15 minute presentation provides an overview of the main categories of
 5. Open Education Resources and bringing Libre to "the Full Stack"
 
 
-This outline, the text as delivered, and presentation slides are available at:
+This outline, the text as delivered, and presentation slides will be made available at:
 
 [http://huginn.net/talks/eui-mooc-oa-talk-2013.11/](http://huginn.net/talks/eui-mooc-oa-talk-2013.11/)
 
