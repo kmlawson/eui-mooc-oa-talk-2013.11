@@ -22,6 +22,9 @@ This outline, the text as delivered, and presentation slides will be made availa
 
 [http://huginn.net/talks/eui-mooc-oa-talk-2013.11/](http://huginn.net/talks/eui-mooc-oa-talk-2013.11/)
 
+* [Text as Delivered](http://huginn.net/talks/eui-mooc-oa-talk-2013.11/talk.pdf) (PDF)
+* Slides (Coming Soon)
+
 Full repository history at: 
 
 [https://github.com/kmlawson/eui-mooc-oa-talk-2013.11](https://github.com/kmlawson/eui-mooc-oa-talk-2013.11)
